@@ -60,12 +60,19 @@ Generar un proceso que permita ingresar 7 ventas: por cada venta preguntar los s
 - Nombre del cliente
 - Costo de la computadora (solo se vende una computadora por transacción)
 - Tipo de cliente
+
 Presentar el siguiente reporte:
 
-Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es %90
-Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es %90
-Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es %90
-Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es %90
-Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es %90
-Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es %90
-Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es %90
+Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es $90
+
+Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es $90
+
+Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es $90
+
+Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es $90
+
+Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es $90
+
+Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es $90
+
+Cliente tipo 1, compra computadora con precio $100 y el costo final a cancelar es $90
